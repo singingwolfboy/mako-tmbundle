@@ -189,7 +189,7 @@
 					<key>begin</key>
 					<string>(?&lt;=&lt;%def)</string>
 					<key>end</key>
-					<string>(?=&gt;)</string>
+					<string>(?&lt;=&gt;)</string>
 					<key>patterns</key>
 					<array>
 						<dict>
